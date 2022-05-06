@@ -1,0 +1,35 @@
+{
+  "name": "offerup",
+  "version": "1.0.4",
+  "description": "The unofficial OfferUp API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksymBlank/offerup.git"
+  },
+  "keywords": [
+    "OfferUp",
+    "Search",
+    "API",
+    "MarketPlace",
+    "Sell goods"
+  ],
+  "author": "Maksym Blank <blank.maksym@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksymBlank/offerup/issues"
+  },
+  "homepage": "https://github.com/MaksymBlank/offerup#readme",
+  "dependencies": {
+    "node-geocoder": "^3.21.1",
+    "request": "^2.83.0",
+    "tress": "^1.0.5",
+    "cheerio": "^0.22.0"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}
